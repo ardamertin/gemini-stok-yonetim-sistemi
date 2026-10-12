@@ -1,0 +1,38 @@
+[
+  {
+    "urun_kodu": "URN-0001",
+    "urun_adi": "Elma",
+    "kategori": "Meyve ve Sebze",
+    "seo_etiketleri": "taze elma, doğal elma, organik meyve",
+    "satis_aciklamasi": "Dalından taze toplanmış sulu ve çıtır çıtır elmalarımızla gününüze sağlık ve eşsiz bir lezzet katın. Vitamin deposu olan bu doğal lezzeti hemen sepetinize ekleyerek güvenle tüketin.",
+    "fiyat": 10.0,
+    "stok": 10
+  },
+  {
+    "urun_kodu": "URN-0002",
+    "urun_adi": "Taze Kırmızı Elma",
+    "kategori": "Meyve ve Sebze",
+    "seo_etiketleri": "elma, taze elma, kırmızı elma, doğal meyve, sağlıklı beslenme",
+    "satis_aciklamasi": "Dalından özenle toplanan taptaze ve sulu elmalar, çıtır dokusuyla günün her anında hafif ve lezzetli bir atıştırmalık sunar. Zengin vitamin içeriğiyle sağlığınızı desteklerken damağınızda ferahlatıcı ve tatlı bir iz bırakır.",
+    "fiyat": 10.0,
+    "stok": 10
+  },
+  {
+    "urun_kodu": "URN-0003",
+    "urun_adi": "Taze Avokado",
+    "kategori": "Meyve & Sebze",
+    "seo_etiketleri": "avokado, taze avokado, organik meyve, sağlıklı beslenme, süper gıda",
+    "satis_aciklamasi": "Kremsi dokusu ve zengin besin değerleriyle taze avokado, kahvaltılarınızdan salatalarınıza kadar her öğüne lezzet ve sağlık katar. Doğal yağlar açısından zengin olan bu süper gıdayı hemen sipariş vererek sofralarınıza taze bir dokunuş yapın.",
+    "fiyat": 30.0,
+    "stok": 5
+  },
+  {
+    "urun_kodu": "URN-0004",
+    "urun_adi": "Taze Muz",
+    "kategori": "Meyve & Sebze",
+    "seo_etiketleri": "muz, taze muz, yerli muz, organik meyve, potasyum kaynağı",
+    "satis_aciklamasi": "Zengin potasyum içeriğiyle gün boyu enerjinizi yüksek tutacak taze ve lezzetli muzlar sofralarınıza geliyor. Hem sağlıklı ara öğünleriniz hem de tatlı tarifleriniz için vazgeçilmez bir lezzet sunar.",
+    "fiyat": 20.0,
+    "stok": 30
+  }
+]

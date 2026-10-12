@@ -1,0 +1,14 @@
+C:\Users\MARMARA\SA_WorldGUI\bin\Debug\net10.0-windows\SA_WorldGUI.exe
+C:\Users\MARMARA\SA_WorldGUI\bin\Debug\net10.0-windows\SA_WorldGUI.deps.json
+C:\Users\MARMARA\SA_WorldGUI\bin\Debug\net10.0-windows\SA_WorldGUI.runtimeconfig.json
+C:\Users\MARMARA\SA_WorldGUI\bin\Debug\net10.0-windows\SA_WorldGUI.dll
+C:\Users\MARMARA\SA_WorldGUI\bin\Debug\net10.0-windows\SA_WorldGUI.pdb
+C:\Users\MARMARA\SA_WorldGUI\obj\Debug\net10.0-windows\SA_WorldGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARMARA\SA_WorldGUI\obj\Debug\net10.0-windows\SA_WorldGUI.AssemblyInfoInputs.cache
+C:\Users\MARMARA\SA_WorldGUI\obj\Debug\net10.0-windows\SA_WorldGUI.AssemblyInfo.cs
+C:\Users\MARMARA\SA_WorldGUI\obj\Debug\net10.0-windows\SA_WorldGUI.csproj.CoreCompileInputs.cache
+C:\Users\MARMARA\SA_WorldGUI\obj\Debug\net10.0-windows\SA_WorldGUI.dll
+C:\Users\MARMARA\SA_WorldGUI\obj\Debug\net10.0-windows\refint\SA_WorldGUI.dll
+C:\Users\MARMARA\SA_WorldGUI\obj\Debug\net10.0-windows\SA_WorldGUI.pdb
+C:\Users\MARMARA\SA_WorldGUI\obj\Debug\net10.0-windows\SA_WorldGUI.genruntimeconfig.cache
+C:\Users\MARMARA\SA_WorldGUI\obj\Debug\net10.0-windows\ref\SA_WorldGUI.dll
